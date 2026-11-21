@@ -12,27 +12,27 @@ Friday stories deliberately left out, and a "still to come today" footer.
 ## How it differs
 
 - **Format: "THE WORLD IN SIX CITIES", not a newspaper front page** — the
- dense broadsheet is the winners' format (33/50 of the news-image-20261120
- top 50). We tell the day as six places, each a mini front page.
+  dense broadsheet is the winners' format (33/50 of the news-image-20261120
+  top 50). We tell the day as six places, each a mini front page.
 - **Not atlas + timeline** (our 19 Nov entry) and **not a dark wire board**
- (our 20 Nov entry).
+  (our 20 Nov entry).
 - **Honest early-morning framing:** built at ~03:00 UTC, so the masthead says
- "as reported by 03:00 UTC" and the footer lists what is still to come
- today, instead of pretending the day is over.
+  "as reported by 03:00 UTC" and the footer lists what is still to come
+  today, instead of pretending the day is over.
 - **Every story source-tagged on the image** (Reuters, AP, Health Policy
- Watch, IANS, AppGazer, RNZ Pacific, F1, IMD).
+  Watch, IANS, AppGazer, RNZ Pacific, F1, IMD).
 - **A DATE CHECK strip on the image** — the big Friday stories we left out on
- purpose (Poland missiles, Akvan's landfall, Zecler verdict, Gupta sentence,
- Denmark plot, AI-chip disclosure).
+  purpose (Poland missiles, Akvan's landfall, Zecler verdict, Gupta sentence,
+  Denmark plot, AI-chip disclosure).
 - **Title in our own words:** counts stories and cities, names the structure;
- no "The World in One Day", no "front page", no colour "edition".
+  no "The World in One Day", no "front page", no colour "edition".
 
 ## Principles (from the news-image-20261120 top 50, counted)
 
 - 43/50 titles name the date explicitly; 14/50 count their stories; 11/50
- use "The World in One Day" (crowded — avoided); 8/50 say "front page"
- (avoided). Density of real, verified stories from the day is what the
- judges reward — 12 honest stories at 03:00 UTC, not an inflated count.
+  use "The World in One Day" (crowded — avoided); 8/50 say "front page"
+  (avoided). Density of real, verified stories from the day is what the
+  judges reward — 12 honest stories at 03:00 UTC, not an inflated count.
 
 ## Build
 
